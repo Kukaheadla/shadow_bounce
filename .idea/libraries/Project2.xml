@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Project2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bagel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
